@@ -2,7 +2,8 @@
 
 **Give every AI answer a report card — see what's good, what's wrong, and how to fix it.**
 
-![Example report card](docs/report-card.png)
+![Example report card] <img width="1440" height="757" alt="report-card" src="https://github.com/user-attachments/assets/bcb49968-ad7e-432b-9e99-5195d67abc74" />
+(docs/report-card.png)
 
 *An LLM ("large language model") is the technology behind AI chatbots like ChatGPT, Claude,
 Gemini and DeepSeek. This tool grades the answers they write.*
